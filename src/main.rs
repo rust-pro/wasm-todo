@@ -106,7 +106,7 @@ impl Component for App {
             <div class="todomvc-wrapper">
                 <section class="todoapp">
                     <header class="header">
-                        <h1>{ "Docker" }</h1>
+                        <h1>{ "Danh sách công việc" }</h1>
                         { self.view_input(ctx.link()) }
                     </header>
                     <section class={classes!("main", hidden_class)}>
@@ -136,7 +136,7 @@ impl Component for App {
                     </footer>
                 </section>
                 <footer class="info">
-                    <p>{ "Double-click to edit a todo" }</p>
+                    <p>{ "Double-click để chỉnh sửa công việc" }</p>
                     <p>{ "Written by Hai Nghia" }</p>
                 </footer>
             </div>
@@ -179,7 +179,7 @@ impl App {
             // <li></li>
             <input
                 class="new-todo"
-                placeholder="What needs to be done?"
+                placeholder="Thêm mới công việc?"
                 {onkeypress}
             />
             /* Or multiline:
