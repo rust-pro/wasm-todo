@@ -1,6 +1,0 @@
-172.18.0.1 - - [15/Mar/2023:06:16:35 +0000] "GET / HTTP/1.1" 200 815 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-"
-172.18.0.1 - - [15/Mar/2023:06:16:35 +0000] "GET /web-assembly-e6a27570a4f3c2f7_bg.wasm HTTP/1.1" 200 306450 "http://localhost:8099/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-"
-172.18.0.1 - - [15/Mar/2023:06:16:35 +0000] "GET /web-assembly-e6a27570a4f3c2f7.js HTTP/1.1" 200 25526 "http://localhost:8099/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-"
-172.18.0.1 - - [15/Mar/2023:06:16:36 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8099/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-"
-172.18.0.1 - - [15/Mar/2023:06:16:38 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-"
-172.18.0.1 - - [15/Mar/2023:06:16:39 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" "-"
