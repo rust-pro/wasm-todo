@@ -106,7 +106,7 @@ impl Component for App {
             <div class="todomvc-wrapper">
                 <section class="todoapp">
                     <header class="header">
-                        <h1>{ "Công việc" }</h1>
+                        <h1>{ "Công việc 1" }</h1>
                         { self.view_input(ctx.link()) }
                     </header>
                     <section class={classes!("main", hidden_class)}>
